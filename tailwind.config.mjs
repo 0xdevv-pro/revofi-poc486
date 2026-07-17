@@ -78,13 +78,5 @@ export default {
       },
     },
   },
-  plugins: [
-    require("./theme/js/auron-reset.min.js"),
-    require("./theme/js/auron-tokens.min.js"),
-    require("./theme/js/auron-utilities.min.js"),
-    require("./theme/js/auron-core.min.js"),
-    require("./theme/js/auron-components.min.js"),
-    require("./theme/js/auron-forms.min.js"),
-    require("./theme/js/auron-layout.min.js"),
-  ],
+  plugins: [],
 };

